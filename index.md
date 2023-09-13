@@ -5,8 +5,6 @@ title: Di Sang's Personal Website
 
 # Welcome to Your Name's Personal Website
 
-#![Your Profile Picture](your_profile_picture.jpg) <!-- Replace with a link to your profile picture -->
-
 I am a passionate graduate student with a strong interest in Data science. This website serves as a platform to showcase my work, projects, and thoughts on various topics.
 
 ## About Me
