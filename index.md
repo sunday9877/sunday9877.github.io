@@ -9,7 +9,7 @@ I am a passionate graduate student with a strong interest in Data science. This 
 
 ## About Me
 
-I like playing badminton, video game, and cooking
+I like playing badminton, video game, and cooking.
 
 - **Email:** di.sang@uconn.edu
 - **LinkedIn:** [your LinkedIn profile link]
@@ -28,7 +28,8 @@ Satellite data processiong and visulization
 
 WRF-CHEM running
 - **Description:** Weather Research and Forecasting (WRF) Model configuration and running with chem module to analzing aerosol movement.
-- **Demo:** ![Model simulated AOD plot](pic/2728aod.png)
+- **Model:** My own model installing and configuration is under [Link to doc](https://github.com/sunday9877/satellite_data/tree/main/wrf)]
+- **Demo:** ![Model simulated aerosol optical depth(AOD) plot vs satellite measurement](pic/2728aod.png)
 
 ## Contact Me
 
