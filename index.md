@@ -35,11 +35,11 @@ Satellite data processiong and visulization
 
 ## Blog
 
-Check out my latest blog posts:
+#Check out my latest blog posts:
 
-- [Blog Post 1](blog_post1.md) <!-- Replace with the link to your blog post -->
-- [Blog Post 2](blog_post2.md) <!-- Replace with the link to your blog post -->
-- ...
+#- [Blog Post 1](blog_post1.md) <!-- Replace with the link to your blog post -->
+#- [Blog Post 2](blog_post2.md) <!-- Replace with the link to your blog post -->
+#- ...
 
 ## Contact Me
 
