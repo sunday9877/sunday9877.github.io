@@ -15,8 +15,7 @@ I am a [brief description of yourself].
 
 - **Email:** di.sang@uconn.edu
 - **LinkedIn:** [your LinkedIn profile link]
-- **GitHub:** [your GitHub profile link]
-- **Twitter:** [your Twitter profile link]
+- **GitHub:** [[your GitHub profile link](https://github.com/sunday9877)]
 
 ## Projects
 
