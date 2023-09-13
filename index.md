@@ -28,7 +28,7 @@ Satellite data processiong and visulization
 
 ### Project 2
 
-![Project 2 Image](project2_image.jpg) <!-- Replace with an image related to your project -->
+WRF-CHEM running
 - **Description:** Brief description of your project.
 - **GitHub Repository:** [Link to your project's GitHub repository]
 - **Demo:** [Link to a live demo, if available]
