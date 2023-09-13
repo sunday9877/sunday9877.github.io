@@ -22,7 +22,7 @@ I am a [brief description of yourself]. I like playing badminton, video game, an
 ### Project 1
 
 Satellite data processiong and visulization
-- **Description:** Brief description of your project.
+- **Description:** •	Satellite aerosol data analysis: Data Acquisition, Data Preprocessing, Data Visualization, Image Classification, and Interpretation.
 - **GitHub Repository:** [Link to your project's GitHub repository](https://github.com/sunday9877/satellite_data)]
 - **Demo:** [Link to a live demo, if available]
 
