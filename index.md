@@ -45,9 +45,7 @@ Check out my latest blog posts:
 
 Feel free to reach out to me:
 
-- Email: [your email address]
-- LinkedIn: [your LinkedIn profile link]
-- Twitter: [your Twitter profile link]
+- Email: di,sang@uconn.edu, hzwsunday@icloud.com
 
 Thank you for visiting my website!
 
