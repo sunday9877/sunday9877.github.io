@@ -23,6 +23,7 @@ Satellite data processiong and visulization
 - **Description:** •	Satellite aerosol data analysis: Data Acquisition, Data Preprocessing, Data Visualization, Image Classification, and Interpretation.
 - **GitHub Repository:** [Link to your project's GitHub repository](https://github.com/sunday9877/satellite_data)]
 - **Demo:** ![SEVIRI RGB image](pic/SEVIRI_20180502041511.png)
+- ![SEVIRI RGB animation showing a huge sand storm](pic/dust_20180527.mp4)
 
 ### Project 2
 
