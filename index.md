@@ -37,7 +37,7 @@ Satellite data processiong and visulization
 
 Feel free to reach out to me:
 
-- Email: di,sang@uconn.edu, hzwsunday@icloud.com
+- Email: di.sang@uconn.edu, hzwsunday@icloud.com
 
 Thank you for visiting my website!
 
