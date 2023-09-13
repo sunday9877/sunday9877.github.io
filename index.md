@@ -11,7 +11,7 @@ I am a passionate graduate student with a strong interest in Data science. This 
 
 ## About Me
 
-I am a [brief description of yourself]. 
+I am a [brief description of yourself]. I like playing badminton, video game, and cooking
 
 - **Email:** di.sang@uconn.edu
 - **LinkedIn:** [your LinkedIn profile link]
@@ -21,9 +21,9 @@ I am a [brief description of yourself].
 
 ### Project 1
 
-![Project 1 Image](project1_image.jpg) <!-- Replace with an image related to your project -->
+Satellite data processiong and visulization
 - **Description:** Brief description of your project.
-- **GitHub Repository:** [Link to your project's GitHub repository]
+- **GitHub Repository:** [Link to your project's GitHub repository](https://github.com/sunday9877/satellite_data)]
 - **Demo:** [Link to a live demo, if available]
 
 ### Project 2
