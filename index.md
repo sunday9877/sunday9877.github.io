@@ -24,13 +24,13 @@ I like playing badminton, video game, and cooking
 Satellite data processiong and visulization
 - **Description:** •	Satellite aerosol data analysis: Data Acquisition, Data Preprocessing, Data Visualization, Image Classification, and Interpretation.
 - **GitHub Repository:** [Link to your project's GitHub repository](https://github.com/sunday9877/satellite_data)]
-- **Demo:** [Link to a live demo, if available]
+- **Demo:** !SEVIRI RGB image](your_profile_picture.jpg) <!-- Replace with a link to your profile picture -->
 
 ### Project 2
 
 WRF-CHEM running
 - **Description:** Weather Research and Forecasting (WRF) Model configuration and running with chem module to analzing aerosol movement.
-- **Demo:** [Link to a live demo, if available]
+- **Demo:** ![Model simulated AOD plot](pic/picture.jpg) <!-- Replace with a link to your profile picture -->
 
 ## Contact Me
 
