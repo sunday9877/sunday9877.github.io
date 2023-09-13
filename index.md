@@ -11,7 +11,7 @@ I am a passionate graduate student with a strong interest in Data science. This 
 
 ## About Me
 
-I am a [brief description of yourself]. I like playing badminton, video game, and cooking
+I like playing badminton, video game, and cooking
 
 - **Email:** di.sang@uconn.edu
 - **LinkedIn:** [your LinkedIn profile link]
@@ -29,8 +29,7 @@ Satellite data processiong and visulization
 ### Project 2
 
 WRF-CHEM running
-- **Description:** Brief description of your project.
-- **GitHub Repository:** [Link to your project's GitHub repository]
+- **Description:** Weather Research and Forecasting (WRF) Model configuration and running with chem module to analzing aerosol movement.
 - **Demo:** [Link to a live demo, if available]
 
 ## Contact Me
