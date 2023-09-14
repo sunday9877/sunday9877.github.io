@@ -21,7 +21,7 @@ I like playing badminton, video game, and cooking.
 
 Satellite data processiong and visulization
 - **Description:** •	Satellite aerosol data analysis: Data Acquisition, Data Preprocessing, Data Visualization, Image Classification, and Interpretation.
-- **GitHub Repository:** [Link to my project's GitHub repository](https://github.com/sunday9877/satellite_data)]
+- **GitHub Repository:** [[Link to my project's GitHub repository](https://github.com/sunday9877/satellite_data)]
 - **Demo:** Spinning Enhanced Visible and InfraRed Imager (SEVIRI) RGB image ![SEVIRI RGB image](pic/SEVIRI_20180502041511.png)
 - SEVIRI RGB animation showing a huge sand storm ![SEVIRI RGB animation showing a huge sand storm](pic/dust_20180527.mp4)
 
