@@ -3,7 +3,7 @@ layout: default
 title: Di Sang's Personal Website
 ---
 
-# Welcome to Your Name's Personal Website
+# Welcome to My Personal Website
 
 I am a passionate graduate student with a strong interest in Data science. This website serves as a platform to showcase my work, projects, and thoughts on various topics.
 
@@ -12,8 +12,8 @@ I am a passionate graduate student with a strong interest in Data science. This 
 I like playing badminton, video game, and cooking.
 
 - **Email:** di.sang@uconn.edu
-- **LinkedIn:** [your LinkedIn profile link]
-- **GitHub:** [[your GitHub profile link](https://github.com/sunday9877)]
+- **LinkedIn:** [my LinkedIn profile link]
+- **GitHub:** [[my GitHub profile link](https://github.com/sunday9877)]
 
 ## Projects
 
@@ -21,7 +21,7 @@ I like playing badminton, video game, and cooking.
 
 Satellite data processiong and visulization
 - **Description:** •	Satellite aerosol data analysis: Data Acquisition, Data Preprocessing, Data Visualization, Image Classification, and Interpretation.
-- **GitHub Repository:** [Link to your project's GitHub repository](https://github.com/sunday9877/satellite_data)]
+- **GitHub Repository:** [Link to my project's GitHub repository](https://github.com/sunday9877/satellite_data)]
 - **Demo:** Spinning Enhanced Visible and InfraRed Imager (SEVIRI) RGB image ![SEVIRI RGB image](pic/SEVIRI_20180502041511.png)
 - SEVIRI RGB animation showing a huge sand storm ![SEVIRI RGB animation showing a huge sand storm](pic/dust_20180527.mp4)
 
