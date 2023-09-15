@@ -12,7 +12,7 @@ I am a passionate graduate student with a strong interest in Data science. This 
 I like playing badminton, video game, and cooking.
 
 - **Email:** di.sang@uconn.edu
-- **LinkedIn:** [my LinkedIn profile link]
+- **LinkedIn:** [[my LinkedIn profile link](www.linkedin.com/in/di-sang)]
 - **GitHub:** [[my GitHub profile link](https://github.com/sunday9877)]
 
 ## Projects
