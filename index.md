@@ -30,12 +30,12 @@ Satellite data processiong and visulization
 
 WRF-CHEM running
 - **Description:** Weather Research and Forecasting (WRF) Model configuration and running with chem module to analzing aerosol movement.
-- **Model:** My own model installing and configuration is under [Link to doc](https://github.com/sunday9877/satellite_data/tree/main/wrf)]
+- **Model:** My WRF model installing and configuration document is under [Link to doc](https://github.com/sunday9877/satellite_data/tree/main/wrf)]
 - **Demo:** Model simulated aerosol optical depth(AOD) plot vs satellite measurement ![Model simulated aerosol optical depth(AOD) plot vs satellite measurement](pic/2728aod.png)
 
-### Project 1
+### Project 3
 
-Machine learning
+Machine learning project ongoing
 
 ## Contact Me
 
