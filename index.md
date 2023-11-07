@@ -33,9 +33,10 @@ WRF-CHEM running
 - **Model:** My WRF model installing and configuration document is under [Link to doc](https://github.com/sunday9877/satellite_data/tree/main/wrf)]
 - **Demo:** Model simulated aerosol optical depth(AOD) plot vs satellite measurement ![Model simulated aerosol optical depth(AOD) plot vs satellite measurement](pic/2728aod.png)
 
-### Project 3
+### Machine learning Project
 
-Machine learning project ongoing
+My first data project ongoing under: 2023 Travelers Analytics Case Competition
+
 
 ## Contact Me
 
