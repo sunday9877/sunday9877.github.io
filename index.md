@@ -16,8 +16,23 @@ I like playing badminton, video game, and cooking.
 - **GitHub:** [[my GitHub profile link](https://github.com/sunday9877)]
 
 ## Projects
-
 ### Project 1
+
+2023 Travelers Analytics Case Competition, Oct 2023- Dec 2023
+-	Led the design and implementation of a customized XGBoost regression model to forecast car insurance claim costs leveraging user data.
+-	Spearheaded a 56.7% enhancement in predictive accuracy compared to the established benchmark model, showcasing the efficacy of the tailored XGBoost regression methodology.
+-	Provided actionable insights into pivotal factors influencing car insurance claim costs, empowering informed strategic decision-making for the business partner.
+- Link: [[Link to my project](https://medium.com/@wosunday8769/navigating-imbalanced-car-insurance-claim-data-with-pervasive-0-values-37c67879c3e7)]
+
+### Project 2
+
+Medical insurance claim approval prediction using statistical models, Nov 2023 - Dec 2023
+- Analyzed data from medical insurance policyholders to uncover correlations among factors and predict insurance claim approvals using statistical classification methodologies (LM, Random Forest, Gradient Boosting) with R.
+- Identified Random Forest as the most robust model, excelling in Precision(0.862), Recall(0.868), Accuracy(0.853), and F1 Score(0.865). Additionally, XGBoost demonstrated competitive performance across metrics.
+- Link: [[Link to my project](https://medium.com/@wosunday8769/medical-insurance-claim-approval-prediction-project-using-statistical-models-from-r-8f3fb8bef34c)]
+
+
+### Project 3
 
 Satellite data processiong and visulization
 - **Description:** •	Satellite aerosol data analysis: Data Acquisition, Data Preprocessing, Data Visualization, Image Classification, and Interpretation.
@@ -26,7 +41,7 @@ Satellite data processiong and visulization
 - SEVIRI RGB animation showing a huge sand storm ![SEVIRI RGB animation showing a huge sand storm](pic/dust_20180527.mp4)
 
 
-### Project 2
+### Project 4
 
 WRF-CHEM running
 - **Description:** Weather Research and Forecasting (WRF) Model configuration and running with chem module to analzing aerosol movement.
