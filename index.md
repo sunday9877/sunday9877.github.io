@@ -26,6 +26,19 @@ I like playing badminton, video game, and cooking.
 
 ### Project 2
 
+A GIS dashboard project focusing on COPD in in Connecticut:
+This dashboard shows COPD cases in Connecticut from 2001 to 2014, by population density. It's easy to use and lets you see how COPD cases have changed over time and where they're most common across different counties in Connecticut. By comparing COPD cases to population numbers, you can see which areas have more cases per person. You can also filter the data to focus on specific regions to get more detailed information. This helps people understand where COPD is a bigger issue and make decisions about how to address it.
+- Data Collection and Preprocess:
+- Create Map with GIS Online:
+Import the preprocessed data into a GIS online platform.
+Create a map showing locations, with customizable symbols and additional layers for context.
+Create GIS Dashboard:
+- Develop an interactive dashboard displaying the map and additional visualizations.
+- Link: [[Link to the GIS dashboard](https://connecticut.maps.arcgis.com/apps/dashboards/dd7e74dadc5e4dbb910c48e42b70b6b6)]
+
+
+### Project 3
+
 A GIS dashboard project focusing on museums in Connecticut:
 
 - Data Collection and Preprocess:
@@ -38,15 +51,14 @@ Create GIS Dashboard:
 Provide details about number of museum in CT.
 - Link: [[Link to the GIS dashboard](https://connecticut.maps.arcgis.com/apps/dashboards/0302e48aba2447bab8c6442860e7e5b1)]
 
-
-### Project 3
+### Project 4
 
 Medical insurance claim approval prediction using statistical models, Nov 2023 - Dec 2023
 - Link: [[Link to my medium story: Medical insurance claim approval prediction project using statistical models from R](https://medium.com/@wosunday8769/medical-insurance-claim-approval-prediction-project-using-statistical-models-from-r-8f3fb8bef34c)]
 - Analyzed data from medical insurance policyholders to uncover correlations among factors and predict insurance claim approvals using statistical classification methodologies (LM, Random Forest, Gradient Boosting) with R.
 - Identified Random Forest as the most robust model, excelling in Precision(0.862), Recall(0.868), Accuracy(0.853), and F1 Score(0.865). Additionally, XGBoost demonstrated competitive performance across metrics.
 
-### Project 4
+### Project 5
 
 Satellite data processiong and visulization
 - **Description:** •	Satellite aerosol data analysis: Data Acquisition, Data Preprocessing, Data Visualization, Image Classification, and Interpretation.
@@ -55,7 +67,7 @@ Satellite data processiong and visulization
 - SEVIRI RGB animation showing a huge sand storm ![SEVIRI RGB animation showing a huge sand storm](pic/dust_20180527.mp4)
 
 
-### Project 5
+### Project 6
 
 WRF-CHEM running
 - **Description:** Weather Research and Forecasting (WRF) Model configuration and running with chem module to analzing aerosol movement.
