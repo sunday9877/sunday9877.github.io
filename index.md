@@ -36,7 +36,7 @@ Create GIS Dashboard:
 - Develop an interactive dashboard displaying the map and additional visualizations.
 - Link: [[Link to the GIS dashboard](https://connecticut.maps.arcgis.com/apps/dashboards/dd7e74dadc5e4dbb910c48e42b70b6b6)]
 
-
+<img width="1527" alt="copd" src="https://github.com/sunday9877/sunday9877.github.io/assets/143627037/8031e0d5-ccaf-47d2-9d3f-6543bf4e2700">
 
 ### Project 3
 
@@ -58,7 +58,7 @@ Medical insurance claim approval prediction using statistical models, Nov 2023 -
 - Link: [[Link to my medium story: Medical insurance claim approval prediction project using statistical models from R](https://medium.com/@wosunday8769/medical-insurance-claim-approval-prediction-project-using-statistical-models-from-r-8f3fb8bef34c)]
 - Analyzed data from medical insurance policyholders to uncover correlations among factors and predict insurance claim approvals using statistical classification methodologies (LM, Random Forest, Gradient Boosting) with R.
 - Identified Random Forest as the most robust model, excelling in Precision(0.862), Recall(0.868), Accuracy(0.853), and F1 Score(0.865). Additionally, XGBoost demonstrated competitive performance across metrics.
-<img width="1527" alt="copd" src="https://github.com/sunday9877/sunday9877.github.io/assets/143627037/8031e0d5-ccaf-47d2-9d3f-6543bf4e2700">
+
 
 ### Project 5
 
