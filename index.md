@@ -59,8 +59,14 @@ Medical insurance claim approval prediction using statistical models, Nov 2023 -
 - Analyzed data from medical insurance policyholders to uncover correlations among factors and predict insurance claim approvals using statistical classification methodologies (LM, Random Forest, Gradient Boosting) with R.
 - Identified Random Forest as the most robust model, excelling in Precision(0.862), Recall(0.868), Accuracy(0.853), and F1 Score(0.865). Additionally, XGBoost demonstrated competitive performance across metrics.
 
-
 ### Project 5
+
+Unsupervised learning of high school university admission data
+
+<img width="844" alt="cluster" src="https://github.com/sunday9877/sunday9877.github.io/assets/143627037/e1b64613-fa41-493d-bfe8-131cf4972d03">
+
+
+### Project 6
 
 Satellite data processiong and visulization
 - **Description:** •	Satellite aerosol data analysis: Data Acquisition, Data Preprocessing, Data Visualization, Image Classification, and Interpretation.
@@ -69,7 +75,7 @@ Satellite data processiong and visulization
 - SEVIRI RGB animation showing a huge sand storm ![SEVIRI RGB animation showing a huge sand storm](pic/dust_20180527.mp4)
 
 
-### Project 6
+### Project 7
 
 WRF-CHEM running
 - **Description:** Weather Research and Forecasting (WRF) Model configuration and running with chem module to analzing aerosol movement.
